@@ -38,7 +38,8 @@ const Portfolio = () => {
   }
   return (
     <section id="portfolio">
-      <h2>Recent Projects</h2>
+      <h2>Projects Directory</h2>
+      <p>Built over {projects.length}+ projects</p>
       <p>
       Check out some of the projects I recently worked on for my clients. Use the buttons to toggle the different categories.
       </p>

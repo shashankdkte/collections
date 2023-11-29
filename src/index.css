@@ -259,3 +259,15 @@ img {
         width: var(--container-width-md);
     }
 }
+
+.tag{
+    background-color: #111;
+    color: var(--color-white);
+    padding: 0.3rem 0.6rem;
+    margin: 0.5rem 0.5rem 1rem;
+    display: inline-block;
+    border-radius: var(--border-radius-2);
+}
+.portfolio__project p {
+    margin: 0.5rem 0;
+}
